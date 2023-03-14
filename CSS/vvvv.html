@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Título</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Link de navegação 1</a></li>
+          <li><a href="#">Link de navegação 2</a></li>
+        </ul>
+      </nav>
+    </header>
+      <h1>Título do conteúdo</h1>
+      <p>Conteúdo exemplo</p>
+    <main role="main">
+      <section>
+        <article>
+          <h1>Título do artigo</h1>
+          <p>Conteúdo do artigo</p>
+        </article>
+       <blockquote cite="http://campuscode.com.br">
+         <p>Exemplo de citação tirada da CampusCode</p>
+       </blockquote>
+      </section>
+   </main>
+    <footer>Rodapé</footer>
+  </body>
+</html>
